@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: arial;
+}
+p{
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color:black;
+}
+img{
+    max-width: 100%;
+}
+
+.main-header{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    padding:20px;
+
+}
+
+
+.btn-details{
+    background-color:green;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    width:30%;
+    text-align: center;
+    
+}
+
+.btn-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result-details{
+    background-color: rgb(187, 183, 183);
+    height: 40px;
+    text-align: center;
+    justify-content: center;
+
+}
